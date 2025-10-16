@@ -1,3 +1,5 @@
+#192424420
+
 import heapq
 
 def a_star(grid, start, goal):
